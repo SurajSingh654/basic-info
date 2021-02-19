@@ -66,6 +66,7 @@ hr {
 .para {
   color: #0a043c;
   font-size: 1.1rem;
+  width: 50%;
 }
  .btn {
   background: #3498db;
