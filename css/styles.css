@@ -67,6 +67,7 @@ hr {
   color: #0a043c;
   font-size: 1.1rem;
   width: 50%;
+  margin: auto;
 }
  .btn {
   background: #3498db;
